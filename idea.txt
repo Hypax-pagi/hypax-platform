@@ -1,0 +1,19 @@
+je veux une application nomme Hypax qui possede a son tour des sous application ou j'utilise celui que je veux ,voici une liste de sous applucations:
+1. application de gestion des finances personnlles: la on aura a gerer /suivi de mes depenses/transactions/revenus/
+2. mes comptes bancaires : la j'aoutera le nom de la banque/microfinance + le numero de compte ; enregistre si je fais un depot /retrait sur un compte choisi tout en enregistrant les dates heures 
+3. un to do list : la ou j'enregistre mes to do list 
+4. mon agenda 
+5.mes dettes
+6. gestion des projets 
+
+si tu voix ce qui utiles a ajouter dis moi pour que je possede un systeme complet et intelligents qui travaille meme hors ligne et qui posssede la securite (fingerprint,facerecognation,pin[ selon ce qui te facilitera ])
+
+je veux une application mobile bien fonctionnelle et moderne et cette application est tockee en ligne donc je peux l'accede  a un moment ou je veux et cette application pour que tu l'utilise tu dois avoir un acces a un super admin celui qui gere et controle et voit tout 
+elle doit etre sur  git hub pour que lors de la demonstartion de mes competences et projets il doit etre visibles 
+mais avant tout ca on dois costruire mon portfolio bien fonctionnel pour ajouter mes biens et me preparer pour un bon developpeur 
+ => les langages que je veux qui seront presents lors de la construction ( tu choisir les plus compatibles selon le sysyteme voulu): python,react,react native,
+
+Donc un systeme pour developper mon empire (qui me conseil et suit /guide /analyse/protege/m'aide)
+ c:\Users\Hypax\Pictures\DSC_0559.png : ceci est l'icone de mon application
+
+ donne moi un prompt pour faire ca ( je veux un prompt a mettre dans un agent present dans vs code )

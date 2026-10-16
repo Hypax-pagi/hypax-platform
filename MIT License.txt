@@ -1,0 +1,33 @@
+
+**Fichier 3 : `PROMPT.md`** (le fichier qui contient tout le prompt de l'agent) :
+
+1. Dans VS Code, crée un nouveau fichier à la racine : `PROMPT.md`
+2. **Copie-colle l'intégralité du prompt complet** que je t'ai fourni dans ma réponse précédente (le bloc entre ` ```markdown ` et ` ``` `).
+3. Sauvegarde.
+
+> **Astuce VS Code** : Pour créer un fichier prompt natif reconnu par Copilot, tu peux aussi utiliser la commande **`Chat: New Prompt File`** depuis la palette de commandes (`Ctrl+Shift+P`). VS Code le placera dans `.github/prompts/` avec l'extension `.prompt.md`[reference:15]. Tu pourras ensuite l'invoquer avec `/nom-du-prompt` dans le chat.
+
+**Fichier 4 : `LICENSE`** (MIT — crée-le à la racine) :
+
+```text
+MIT License
+
+Copyright (c) 2026 [Ton Nom]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
